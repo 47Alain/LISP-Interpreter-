@@ -44,7 +44,7 @@ This project demonstrates skills in **interpreter design, recursion, functional 
 
 1. **Clone this repository**:  
    ```bash
-   git clone https://github.com/<47Alain>/LISP-interpreter-.git
+   git clone https://github.com/47Alain/LISP-Interpreter-.git
    cd LISP-interpreter-
 
 ## **Launch the Interpreter**
