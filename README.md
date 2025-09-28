@@ -5,7 +5,7 @@ This project demonstrates skills in **interpreter design, recursion, functional 
 
 ---
 
-## 🚀 **Key Features**
+## **Key Features**
 
 - **Interactive REPL** – Write and evaluate Scheme code interactively.  
 - **Variable Management** – Definitions, scoped frames, reassignment, and deletion.  
@@ -21,7 +21,7 @@ This project demonstrates skills in **interpreter design, recursion, functional 
 
 ---
 
-## 🛠️ **Technical Highlights**
+## **Technical Highlights**
 
 - Written in **Python 3** using modular, testable code.  
 - Implements **recursive evaluation** of Scheme expressions.  
@@ -31,7 +31,7 @@ This project demonstrates skills in **interpreter design, recursion, functional 
 
 ---
 
-## 📂 **Repository Structure**
+## **Repository Structure**
 
 - `lab.py` – Entry point for the interpreter (REPL).  
 - `scheme repl.py` – Core evaluation logic.  
@@ -40,9 +40,14 @@ This project demonstrates skills in **interpreter design, recursion, functional 
 
 ---
 
-## ▶️ **Running the Interpreter**
+## **Running the Interpreter**
 
 1. **Clone this repository**:  
    ```bash
    git clone https://github.com/<47Alain>/LISP-interpreter-.git
-   cd lisp-interpreter
+   cd LISP-interpreter-
+
+## **Launch the Interpreter**
+```bash
+   python3 lab.py
+
