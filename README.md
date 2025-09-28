@@ -1,4 +1,4 @@
-# **Scheme Interpreter**
+# **SCHEME INTERPRETER**
 
 A lightweight **Scheme interpreter** implemented in **Python**, designed as part of the **MIT 6.101: Fundamentals of Programming** course.  
 This project demonstrates skills in **interpreter design, recursion, functional programming, error handling, and Python software engineering**.
